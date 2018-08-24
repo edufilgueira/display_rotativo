@@ -1,0 +1,169 @@
+<html>
+<head>
+<title>Busca simples com jQuery, Ajax e PHP</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script src="jquery-3.2.1.min.js" type="text/javascript"></script>
+
+<style>
+body {margin:0; padding:0}
+.container-principal {
+	position:relative;
+	display: block; 
+	float:left; 
+	border: 0px solid #0F0; 
+	width: auto; 
+	height: 100%; 
+	margin-right:5px;
+	text-align:center;
+}
+.img_principal {
+text-align:center;
+}
+
+#assinatura{
+	position: absolute;
+	top: 80%; 
+	left: 0; 
+	width: 100%; 
+}
+#assinatura span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+   
+}
+
+.container-lateral {display: block; border: 0px solid #F00; width: 100%;}
+.fotos_chamadas{display: block; float: left; margin: 5px; border: 1px solid #c9c9c9; height: calc(96%/3);}
+.modura {
+	display: block;
+	float: left;
+	margin-top: 5px;
+	margin-right: 5px;
+	border: 1px solid #dadada;
+	border-radius:9px
+}
+.imagem{
+	position:relative;
+	text-align: center;
+	margin: 4px; 
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	border-radius:7px
+}
+.imagem span { 
+    color: white;
+    font: bold 17px/27px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    /* background: rgb(0, 0, 0); */
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 4px 9px 2px 10px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div>
+	<div class="container-principal">
+		<!--<img id="img1" height="100%" src="">-->
+		<div class="img_principal" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/18620238_837407653080115_461058954956412402_n.jpg?oh=dfe041a7041bc50efe43d305894423c3&oe=5A592FEE");'></div>
+		<span id="assinatura">
+			<img width="310px" src="http://veicula.com.br/emporiodobolo/imagens/Promocao2Xmais/Promocao2Xmais_retangula.jpg"><br>
+			<span>Eduardo Filgueira</span>
+		</span>
+	</div>
+	<!--<div class="container-lateral">-->
+		<div id="foto1" class="modura">
+			<div class="imagem" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/14572341_10207641750626830_290379535838259615_n.jpg?oh=15e5116cf8ca17ab7f233233acac0ab8&oe=5A5E96B1");'>
+				<span>Eduardo Filgueira</span>
+			</div>
+		</div>	
+		<div id="foto1" class="modura">
+			<div class="imagem" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/14908306_1253263548027802_6940424216516150847_n.jpg?oh=16e2caaafddc3e024ab5fe3d30aa4173&oe=5A10BAB8");'>
+				<span>Eduardo Filgueira</span>
+			</div>
+		</div>	
+		<div id="foto1" class="modura">
+			<div class="imagem" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/14908306_1253263548027802_6940424216516150847_n.jpg?oh=16e2caaafddc3e024ab5fe3d30aa4173&oe=5A10BAB8");'>
+				<span>Eduardo Filgueira</span>
+			</div>
+		</div>	
+		<div id="foto1" class="modura">
+			<div class="imagem" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/14908306_1253263548027802_6940424216516150847_n.jpg?oh=16e2caaafddc3e024ab5fe3d30aa4173&oe=5A10BAB8");'>
+				<span>Eduardo Filgueira</span>
+			</div>
+		</div>	
+		<div id="foto1" class="modura">
+			<div class="imagem" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/14908306_1253263548027802_6940424216516150847_n.jpg?oh=16e2caaafddc3e024ab5fe3d30aa4173&oe=5A10BAB8");'>
+				<span>Eduardo Filgueira</span>
+			</div>
+		</div>	
+		<div id="foto1" class="modura">
+			<div class="imagem" style='background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-1/14908306_1253263548027802_6940424216516150847_n.jpg?oh=16e2caaafddc3e024ab5fe3d30aa4173&oe=5A10BAB8");'>
+				<span>Eduardo Filgueira</span>
+			</div>
+		</div>	
+		
+	<!--</div>-->
+
+
+</div>
+
+<!--
+	<div id="nome1"></div><div id="foto10"><img id="img1" src="" width="100"></div><br>
+	<div id="nome2"></div><div id="foto2"><img id="img2" src="" width="100"></div><br>
+	<div id="nome3"></div><div id="foto3"><img id="img3" src="" width="100"></div><br>
+	<div id="nome4"></div><div id="foto4"><img id="img4" src="" width="100"></div><br>
+	<div id="nome5"></div><div id="foto5"><img id="img5" src="" width="100"></div><br>
+	<div id="nome6"></div><div id="foto6"><img id="img6" src="" width="100"></div><br>
+	<div id="nome7"></div><div id="foto7"><img id="img7" src="" width="100"></div><br>
+-->
+
+<script type="text/javascript">
+
+function ajustar_video()
+{
+	//pixel redutor
+    //var winW = $(window).width();//screen.width
+    var winH = $(window).height();//screen.height
+    var divResize = $("#modura");
+    divResize.css('width', winH);
+		
+	//Definir imagem principal
+	var img_principal = (screen.height);
+	$(".img_principal").height(img_principal);
+	$(".img_principal").width(img_principal);
+	//Definição da modura imagens
+	var tamanho_modura = (((screen.height-6)/3)-7);
+	$(".modura").height(tamanho_modura);
+	$(".modura").width(tamanho_modura);
+	//definição da imagem imagens
+	var tamanho_imagem = (((screen.height-6)/3)-15);
+	$(".imagem").height(tamanho_imagem);
+	$(".imagem").width(tamanho_imagem);
+	//alert($("#foto1").height());	
+}
+
+ajustar_video();
+
+$(function(){
+    $(window).resize(function(){
+		 ajustar_video();
+    });
+});
+//alert(screen.height);
+//alert($(window).height());
+
+
+
+
+</script>
+
+</body>
+</html>

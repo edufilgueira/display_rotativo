@@ -1,0 +1,20 @@
+[30-Aug-2017 10:25:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/display/listar_display.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/display/listar_display.php on line 4
+[30-Aug-2017 10:25:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/display/listar_display.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/display/listar_display.php on line 4
+[30-Aug-2017 10:26:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_display() in /home/veicula4/public_html/emporiodobolo/display/listar_display.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/display/listar_display.php on line 4
+[30-Aug-2017 10:29:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_display() in /home/veicula4/public_html/emporiodobolo/display/listar_display.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/display/listar_display.php on line 4
+[30-Aug-2017 10:29:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_display() in /home/veicula4/public_html/emporiodobolo/display/listar_display.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/display/listar_display.php on line 4

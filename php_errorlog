@@ -1,0 +1,697 @@
+[21-Aug-2017 12:36:36 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/home/veicula4/public_html/random/vendor/autoload.php' (include_path='.:/usr/local/php70/pear') in /home/veicula4/public_html/random/index.php on line 2
+[23-Aug-2017 13:47:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/veicula4/public_html/random/config.php:7
+Stack trace:
+#0 /home/veicula4/public_html/random/buscarPorEmail.php(2): include()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 7
+[23-Aug-2017 13:50:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/veicula4/public_html/random/config.php:4
+Stack trace:
+#0 /home/veicula4/public_html/random/buscarPorEmail.php(2): include()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 4
+[23-Aug-2017 13:50:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/veicula4/public_html/random/config.php:4
+Stack trace:
+#0 /home/veicula4/public_html/random/buscarPorEmail.php(2): include()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 4
+[23-Aug-2017 13:50:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/veicula4/public_html/random/config.php:4
+Stack trace:
+#0 /home/veicula4/public_html/random/buscarPorEmail.php(2): include()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 4
+[23-Aug-2017 13:55:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_select_db() in /home/veicula4/public_html/random/config.php:8
+Stack trace:
+#0 /home/veicula4/public_html/random/buscarPorEmail.php(2): include()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 8
+[23-Aug-2017 13:56:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/veicula4/public_html/random/config.php:8
+Stack trace:
+#0 /home/veicula4/public_html/random/buscarPorEmail.php(2): include()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 8
+[23-Aug-2017 14:01:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:01:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:01:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:04:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:05:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:09:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:09:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:09:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:14:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/veicula4/public_html/random/buscarPorEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 7
+[23-Aug-2017 14:17:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:17:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:18:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:19:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:19:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:19:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:19:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:19:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 14:19:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/veicula4/public_html/random/buscarPorEmail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/random/buscarPorEmail.php on line 13
+[23-Aug-2017 15:25:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/veicula4/public_html/random/buscarporemail.php on line 19
+[23-Aug-2017 15:33:27 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/veicula4/public_html/random/buscarporemail.php on line 16
+[23-Aug-2017 22:08:35 CST6CDT] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 31
+[23-Aug-2017 22:09:31 CST6CDT] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 31
+[23-Aug-2017 22:10:41 CST6CDT] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 31
+[23-Aug-2017 22:10:46 CST6CDT] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 31
+[23-Aug-2017 22:18:57 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 31
+[23-Aug-2017 22:19:31 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/veicula4/public_html/random/cadastrar_pesquisa.php:33
+Stack trace:
+#0 /home/veicula4/public_html/random/cadastrar_pesquisa.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 33
+[23-Aug-2017 22:59:37 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1193 Unknown system variable 'character_set' in /home/veicula4/public_html/random/config.php:8
+Stack trace:
+#0 /home/veicula4/public_html/random/config.php(8): PDO->exec('SET character_s...')
+#1 /home/veicula4/public_html/random/cadastrar_pesquisa.php(2): include('/home/veicula4/...')
+#2 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 8
+[23-Aug-2017 23:01:12 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1193 Unknown system variable 'character_set' in /home/veicula4/public_html/random/config.php:8
+Stack trace:
+#0 /home/veicula4/public_html/random/config.php(8): PDO->exec('SET character_s...')
+#1 /home/veicula4/public_html/random/cadastrar_pesquisa.php(2): include('/home/veicula4/...')
+#2 {main}
+  thrown in /home/veicula4/public_html/random/config.php on line 8
+[23-Aug-2017 23:35:21 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/veicula4/public_html/random/cadastrar_pesquisa.php:170
+Stack trace:
+#0 /home/veicula4/public_html/random/cadastrar_pesquisa.php(170): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 170
+[23-Aug-2017 23:36:44 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/veicula4/public_html/random/cadastrar_pesquisa.php:170
+Stack trace:
+#0 /home/veicula4/public_html/random/cadastrar_pesquisa.php(170): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 170
+[23-Aug-2017 23:37:01 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/veicula4/public_html/random/cadastrar_pesquisa.php:170
+Stack trace:
+#0 /home/veicula4/public_html/random/cadastrar_pesquisa.php(170): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 170
+[23-Aug-2017 23:50:18 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE), expecting end of file in /home/veicula4/public_html/random/cadastrar_pesquisa.php on line 189
+[24-Aug-2017 14:59:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 21
+[24-Aug-2017 15:05:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function prettyPrint() in /home/veicula4/public_html/emporiodobolo/teste_js.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 23
+[24-Aug-2017 15:24:42 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/veicula4/public_html/emporiodobolo/teste_js.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 25
+[24-Aug-2017 15:25:01 CST6CDT] PHP Parse error:  syntax error, unexpected '"first-name"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 25
+[24-Aug-2017 15:25:34 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/veicula4/public_html/emporiodobolo/teste_js.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 25
+[24-Aug-2017 15:27:01 CST6CDT] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 25
+[24-Aug-2017 15:27:20 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 25
+[24-Aug-2017 17:01:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 45
+[24-Aug-2017 23:13:19 CST6CDT] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 21
+[24-Aug-2017 23:52:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function entrar_nas_promocoes() in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 41
+[24-Aug-2017 23:56:29 CST6CDT] PHP Parse error:  syntax error, unexpected '$validacao_exibicao_do_ticket_' (T_VARIABLE) in /home/veicula4/public_html/emporiodobolo/respostas.php on line 11
+[24-Aug-2017 23:57:31 CST6CDT] PHP Parse error:  syntax error, unexpected '$validacao_exibicao_do_ticket_' (T_VARIABLE) in /home/veicula4/public_html/emporiodobolo/respostas.php on line 11
+[24-Aug-2017 23:58:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/veicula4/public_html/emporiodobolo/respostas.php on line 3
+[24-Aug-2017 23:59:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/veicula4/public_html/emporiodobolo/respostas.php on line 3
+[25-Aug-2017 00:41:42 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting end of file in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 49
+[25-Aug-2017 00:42:04 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting end of file in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 48
+[25-Aug-2017 00:42:54 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting end of file in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 48
+[25-Aug-2017 01:27:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function strtotimr() in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 13
+[25-Aug-2017 01:28:12 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fbuser' cannot be null in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:42
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 42
+[25-Aug-2017 01:31:23 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fbuser' cannot be null in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:42
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 42
+[25-Aug-2017 08:50:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function pesquisa_existe() in /home/veicula4/public_html/emporiodobolo/validar_promocao.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 9
+[25-Aug-2017 08:50:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:7
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(10): pesquisa_existe('171003195569818...')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 7
+[25-Aug-2017 08:53:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:7
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(10): pesquisa_existe('171003195569818...')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 7
+[25-Aug-2017 08:53:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:7
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(10): pesquisa_existe('171003195569818...')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 7
+[25-Aug-2017 08:54:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:8
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(10): pesquisa_existe('171003195569818...')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 8
+[25-Aug-2017 08:58:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 7
+[25-Aug-2017 09:26:19 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/veicula4/public_html/emporiodobolo/funcoes.php:27
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(12): promocao_existe('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 27
+[25-Aug-2017 09:27:49 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/veicula4/public_html/emporiodobolo/funcoes.php:27
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(12): promocao_existe('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 27
+[25-Aug-2017 09:30:14 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/veicula4/public_html/emporiodobolo/funcoes.php:22
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(12): promocao_existe('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 22
+[25-Aug-2017 09:30:31 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/veicula4/public_html/emporiodobolo/funcoes.php:22
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(12): promocao_existe('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 22
+[25-Aug-2017 09:31:54 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/veicula4/public_html/emporiodobolo/funcoes.php:22
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(12): promocao_existe('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 22
+[25-Aug-2017 10:17:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 29
+[25-Aug-2017 10:49:33 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 16
+[25-Aug-2017 10:49:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 16
+[25-Aug-2017 10:51:26 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 16
+[25-Aug-2017 11:59:00 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 61
+[25-Aug-2017 12:32:16 CST6CDT] PHP Parse error:  syntax error, unexpected '$total_resgate_ticket' (T_VARIABLE), expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 52
+[25-Aug-2017 12:32:30 CST6CDT] PHP Parse error:  syntax error, unexpected '$total_resgate_ticket' (T_VARIABLE), expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 52
+[25-Aug-2017 12:32:32 CST6CDT] PHP Parse error:  syntax error, unexpected '$total_resgate_ticket' (T_VARIABLE), expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 52
+[25-Aug-2017 13:57:13 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 61
+[25-Aug-2017 13:57:38 CST6CDT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 77
+[25-Aug-2017 13:58:03 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 105
+[25-Aug-2017 13:58:40 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 108
+[25-Aug-2017 13:59:53 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 91
+[25-Aug-2017 14:00:53 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 92
+[25-Aug-2017 14:01:51 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:95
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(95): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 95
+[25-Aug-2017 14:02:27 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:94
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(94): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 94
+[25-Aug-2017 14:05:06 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/veicula4/public_html/emporiodobolo/funcoes.php:94
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(94): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 94
+[25-Aug-2017 14:05:45 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/veicula4/public_html/emporiodobolo/funcoes.php:94
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(94): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 94
+[25-Aug-2017 14:05:48 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/veicula4/public_html/emporiodobolo/funcoes.php:94
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(94): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 94
+[25-Aug-2017 14:08:06 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:94
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(94): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 94
+[25-Aug-2017 14:08:08 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:94
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(94): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 94
+[25-Aug-2017 14:10:28 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:96
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(96): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 96
+[25-Aug-2017 14:10:57 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/veicula4/public_html/emporiodobolo/funcoes.php:95
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#1 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 95
+[25-Aug-2017 14:12:42 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:13:52 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:15:00 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:15:01 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:17:57 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:17:58 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:19:38 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:19:39 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:97
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 97
+[25-Aug-2017 14:21:14 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:96
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(96): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(60): atualizar_controle('171003195569818...', '{"1710031955698...')
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(14): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 96
+[25-Aug-2017 14:22:57 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 90
+[25-Aug-2017 14:23:26 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 90
+[25-Aug-2017 14:23:28 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 90
+[25-Aug-2017 14:24:07 CST6CDT] PHP Parse error:  syntax error, unexpected ''.$value.'' (T_CONSTANT_ENCAPSED_STRING) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 90
+[25-Aug-2017 14:25:00 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 90
+[25-Aug-2017 14:27:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:7
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(10): pesquisa_existe('171003195569818...')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 7
+[25-Aug-2017 16:14:05 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 88
+[25-Aug-2017 16:22:05 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"1710031955698188":{"first-name":"","promos":{"Promocao2Xmais":{"validade-limite' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:23
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(23): PDO->query('UPDATE `tb_cont...')
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(90): atualiza_controle_json('171003195569818...', Object(stdClass))
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(16): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 23
+[25-Aug-2017 16:24:46 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"1710031955698188":{"first-name":"","promos":{"Promocao2Xmais":{"validade-limite' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:24
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(24): PDO->query('UPDATE `tb_cont...')
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(90): atualiza_controle_json('171003195569818...', Object(stdClass))
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(16): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 24
+[25-Aug-2017 16:25:23 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"1710031955698188":{"first-name":"","promos":{"Promocao2Xmais":{"validade-limite' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:24
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(24): PDO->query('UPDATE `tb_cont...')
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(90): atualiza_controle_json('171003195569818...', Object(stdClass))
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(16): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 24
+[25-Aug-2017 16:52:07 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 132
+[25-Aug-2017 21:39:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 20
+[25-Aug-2017 21:40:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 20
+[25-Aug-2017 21:41:23 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 76
+[25-Aug-2017 21:44:26 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 84
+[25-Aug-2017 21:45:41 CST6CDT] PHP Parse error:  syntax error, unexpected '$datas_resgates' (T_VARIABLE) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 107
+[25-Aug-2017 21:46:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 131
+[25-Aug-2017 21:47:56 CST6CDT] PHP Fatal error:  Constant expression contains invalid operations in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 101
+[25-Aug-2017 22:06:56 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 77
+[25-Aug-2017 22:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 77
+[25-Aug-2017 22:15:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 77
+[25-Aug-2017 22:15:52 CST6CDT] PHP Parse error:  syntax error, unexpected '"data"' (T_CONSTANT_ENCAPSED_STRING) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 77
+[25-Aug-2017 22:16:19 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 85
+[25-Aug-2017 22:17:14 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'data':25\/08\/2017,'resgates':1}"],"total-resgate-ticket":0}}}}' WHERE `fbuser` ' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:23
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(23): PDO->query('UPDATE `tb_cont...')
+#1 /home/veicula4/public_html/emporiodobolo/funcoes.php(97): atualiza_controle_json('171003195569818...', Object(stdClass))
+#2 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(25): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#3 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 23
+[25-Aug-2017 22:28:37 CST6CDT] PHP Parse error:  syntax error, unexpected ''.,"resgates":'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 86
+[25-Aug-2017 22:29:12 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/veicula4/public_html/emporiodobolo/funcoes.php:86
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(25): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 86
+[25-Aug-2017 22:31:20 CST6CDT] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/veicula4/public_html/emporiodobolo/funcoes.php:83
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(25): resgatar_promocao('171003195569818...', 'Promocao2Xmais')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 83
+[25-Aug-2017 22:35:08 CST6CDT] PHP Fatal error:  Cannot use "self" when no class scope is active in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 83
+[26-Aug-2017 10:18:06 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 48
+[26-Aug-2017 10:18:58 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 48
+[26-Aug-2017 10:19:02 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 48
+[26-Aug-2017 10:19:03 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 48
+[26-Aug-2017 10:20:04 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='1710031955698188' LIMIT 1' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:56
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(56): PDO->query('SELECT * FROM t...')
+#1 /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php(39): controle_existe('171003195569818...')
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 56
+[26-Aug-2017 10:29:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:46
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php(40): adicionar_controle('171003195569818...', '{\n\t"17100319556...')
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 46
+[26-Aug-2017 10:35:10 CST6CDT] PHP Parse error:  syntax error, unexpected ''},' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 87
+[26-Aug-2017 10:35:27 CST6CDT] PHP Parse error:  syntax error, unexpected ''}' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 87
+[26-Aug-2017 10:36:08 CST6CDT] PHP Parse error:  syntax error, unexpected ''}' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 87
+[26-Aug-2017 11:19:39 CST6CDT] PHP Parse error:  syntax error, unexpected '$conjugacao1' (T_VARIABLE) in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 11
+[26-Aug-2017 11:20:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 10
+[26-Aug-2017 18:22:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 74
+[26-Aug-2017 21:18:50 CST6CDT] PHP Fatal error:  Cannot redeclare tirar_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:199) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 199
+[26-Aug-2017 21:20:58 CST6CDT] PHP Fatal error:  Cannot redeclare tirar_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:199) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 199
+[26-Aug-2017 21:22:29 CST6CDT] PHP Fatal error:  Cannot redeclare tirar_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 00:28:13 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 00:31:16 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 00:32:03 CST6CDT] PHP Fatal error:  Cannot redeclare strtodata() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:188) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 188
+[27-Aug-2017 00:32:42 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 00:33:02 CST6CDT] PHP Fatal error:  Cannot redeclare pode_resgatar() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:186) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 186
+[27-Aug-2017 00:37:10 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 07:33:31 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 07:36:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function controle_existe() in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 39
+[27-Aug-2017 07:39:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function controle_existe() in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 39
+[27-Aug-2017 07:41:05 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:200) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 200
+[27-Aug-2017 07:42:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function adicionar_controle_fb() in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/entrar_na_promo.php on line 43
+[27-Aug-2017 08:31:49 CST6CDT] PHP Fatal error:  Cannot redeclare remover_acentos() (previously declared in /home/veicula4/public_html/emporiodobolo/funcoes.php:197) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 197
+[27-Aug-2017 10:16:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 10:16:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function sobre_a_promocao() in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/sobre_promocoes.php on line 9
+[27-Aug-2017 11:29:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 27
+[27-Aug-2017 11:30:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 27
+[27-Aug-2017 11:30:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veicula4/public_html/emporiodobolo/validar_promocao.php on line 27
+[27-Aug-2017 11:37:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'date' (T_STRING) in /home/veicula4/public_html/emporiodobolo/respostas.php on line 122
+[27-Aug-2017 11:37:35 CST6CDT] PHP Parse error:  syntax error, unexpected 'date' (T_STRING) in /home/veicula4/public_html/emporiodobolo/respostas.php on line 122
+[29-Aug-2017 13:03:42 CST6CDT] PHP Fatal error:  Redefinition of parameter $validade_limite in /home/veicula4/public_html/emporiodobolo/respostas.php on line 63
+[29-Aug-2017 22:42:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function adicionar_display() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[29-Aug-2017 22:43:13 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'value' in 'field list' in /home/veicula4/public_html/emporiodobolo/funcoes.php:58
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(58): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/teste_js.php(37): adicionar_display('45654', 'ediardo', 'http://testeset...')
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 58
+[29-Aug-2017 22:44:51 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'value' in 'field list' in /home/veicula4/public_html/emporiodobolo/funcoes.php:58
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(58): PDOStatement->execute()
+#1 /home/veicula4/public_html/emporiodobolo/teste_js.php(37): adicionar_display('45654', 'ediardo', 'http://testeset...')
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 58
+[29-Aug-2017 22:45:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function adicionar_display() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[30-Aug-2017 10:06:26 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:65
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(65): PDO->query('SELECT * FROM t...')
+#1 /home/veicula4/public_html/emporiodobolo/teste_js.php(37): listar_existe()
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 65
+[30-Aug-2017 10:18:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/veicula4/public_html/emporiodobolo/funcoes.php:66
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/teste_js.php(37): listar_existe()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 66
+[30-Aug-2017 10:19:47 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id' at line 1 in /home/veicula4/public_html/emporiodobolo/funcoes.php:65
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/funcoes.php(65): PDO->query('SELECT * FROM t...')
+#1 /home/veicula4/public_html/emporiodobolo/teste_js.php(37): listar_existe()
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 65
+[31-Aug-2017 21:13:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 195
+[01-Sep-2017 10:54:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[02-Sep-2017 08:19:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[02-Sep-2017 08:19:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[03-Sep-2017 04:52:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[04-Sep-2017 07:00:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[04-Sep-2017 19:28:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[05-Sep-2017 21:18:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[06-Sep-2017 16:22:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[07-Sep-2017 13:22:25 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 205
+[07-Sep-2017 13:22:49 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 205
+[07-Sep-2017 13:30:27 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/veicula4/public_html/emporiodobolo/funcoes.php:204
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/respostas.php(166): get_data_final('171003195569818...', 'Promocao2Xmais')
+#1 /home/veicula4/public_html/emporiodobolo/validar_promocao.php(38): promocao_finalizada('171003195569818...', 'Promocao2Xmais')
+#2 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/funcoes.php on line 204
+[07-Sep-2017 21:03:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[08-Sep-2017 14:49:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[10-Sep-2017 08:17:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function listar_existe() in /home/veicula4/public_html/emporiodobolo/teste_js.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/teste_js.php on line 37
+[25-Sep-2017 13:13:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/veicula4/public_html/emporiodobolo/convert_data.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 15
+[25-Sep-2017 13:18:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::execute() in /home/veicula4/public_html/emporiodobolo/convert_data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 10
+[25-Sep-2017 13:23:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home/veicula4/public_html/emporiodobolo/convert_data.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 14
+[25-Sep-2017 13:30:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/veicula4/public_html/emporiodobolo/convert_data.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 26
+[25-Sep-2017 14:10:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR) in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 22
+[25-Sep-2017 14:11:08 CST6CDT] PHP Parse error:  syntax error, unexpected '|' in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 22
+[25-Sep-2017 14:11:09 CST6CDT] PHP Parse error:  syntax error, unexpected '|' in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 22
+[25-Sep-2017 14:11:09 CST6CDT] PHP Parse error:  syntax error, unexpected '|' in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 22
+[25-Sep-2017 14:11:15 CST6CDT] PHP Parse error:  syntax error, unexpected '|' in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 22
+[25-Sep-2017 14:11:26 CST6CDT] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 22
+[25-Sep-2017 14:12:40 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 39
+[25-Sep-2017 16:00:54 CST6CDT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/veicula4/public_html/emporiodobolo/convert_data.php on line 20
+[25-Sep-2017 16:54:13 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'migra_nascimento group by nome, email, migra_nascimento' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:10
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 10
+[25-Sep-2017 16:54:33 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group by nome, email, migra_nascimento' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:10
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 10
+[25-Sep-2017 17:14:04 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '_' in 'where clause' in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:12
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 12
+[25-Sep-2017 17:14:21 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '_' in 'where clause' in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:12
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 12
+[25-Sep-2017 17:15:04 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and DAY(migra_nascimento) >=  group by nome, email, migra_nascimento order by mi' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:13
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 13
+[25-Sep-2017 17:15:50 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and DAY(migra_nascimento) >=  group by nome, email, migra_nascimento order by mi' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:13
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 13
+[25-Sep-2017 17:16:18 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and DAY(migra_nascimento) >=  group by nome, email, migra_nascimento order by mi' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:14
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 14
+[25-Sep-2017 17:17:16 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and DAY(migra_nascimento) >=  group by nome, email, migra_nascimento order by mi' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:14
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 14
+[25-Sep-2017 17:20:17 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and DAY(migra_nascimento) >=  group by nome, email, migra_nascimento order by mi' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:15
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 15
+[25-Sep-2017 17:39:38 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and DAY(migra_nascimento) >= 1 and year(migra_nascimento) != 1100 group by nome,' at line 1 in /home/veicula4/public_html/emporiodobolo/aniversariantes.php:17
+Stack trace:
+#0 /home/veicula4/public_html/emporiodobolo/aniversariantes.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/veicula4/public_html/emporiodobolo/aniversariantes.php on line 17
