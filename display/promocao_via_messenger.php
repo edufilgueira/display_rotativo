@@ -64,7 +64,7 @@ function carregar_imagens()
 
 function add_slide(){
 	slide = slide + 1;
-	if(slide > 3)
+	if(slide > 4)
 		slide = 2;
 }
 
@@ -95,6 +95,9 @@ setInterval(function()
         case 3:
             mostra_div_promo02();
             break;
+		case 4:
+            mostra_div_promo03();
+            break;
         default:
             carregar_imagens();
     	}
@@ -116,23 +119,30 @@ function mostra_div_principal(){
 	
 function mostra_div_promo01(){
 	randomico = gerar_randomico();	
-	$("#promo01").css('background-image', 'url(promocoes/lasanha.jpg?'+randomico+')');
+	$("#promo01").css('background-image', 'url(promocoes/promo01.jpg?'+randomico+')');
 	$("#promo01").fadeIn();
 	fadeout_divs('promo01');	
 };
 
 function mostra_div_promo02(){
 	randomico = gerar_randomico();	
-	$("#promo02").css('background-image', 'url(promocoes/kit-festa.jpg?'+randomico+')');
+	$("#promo02").css('background-image', 'url(promocoes/promo02.jpg?'+randomico+')');
 	$("#promo02").fadeIn();
 	fadeout_divs('promo02');	
+};
+
+function mostra_div_promo03(){
+	randomico = gerar_randomico();	
+	$("#promo03").css('background-image', 'url(promocoes/promo03.jpg?'+randomico+')');
+	$("#promo03").fadeIn();
+	fadeout_divs('promo03');	
 };
 
 function fadeout_divs(promo){
 	if(promo != 'img_facebook') $("#img_facebook").fadeOut();
 	if(promo != 'promo01') $("#promo01").fadeOut();
 	if(promo != 'promo02') $("#promo02").fadeOut();
-	//if(promo != 'promo03') $("#promo03").fadeOut();
+	if(promo != 'promo03') $("#promo03").fadeOut();
 	//if(promo != 'promo04') $("#promo04").fadeOut();
 }
 
